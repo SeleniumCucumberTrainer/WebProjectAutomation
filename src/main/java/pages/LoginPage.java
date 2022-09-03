@@ -43,6 +43,8 @@ public class LoginPage {
 		
 		Next.click();
 		
+		System.out.println("hI NEW Line");
+		
 		String errorMessage = errorMsg.getText();
 		
 		if(!errorMessage.isEmpty()){
