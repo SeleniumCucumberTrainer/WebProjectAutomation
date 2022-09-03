@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17900" started-at="2022-09-03T04:22:42Z" finished-at="2022-09-03T04:23:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17900" started-at="2022-09-03T04:22:42Z" finished-at="2022-09-03T04:23:00Z">
+      <class name="LoginScenario.LoginScenarioTestCases">
+        <test-method status="PASS" signature="init()[pri:0, instance:LoginScenario.LoginScenarioTestCases@47f37ef1]" name="init" is-config="true" duration-ms="15252" started-at="2022-09-03T04:22:42Z" finished-at="2022-09-03T04:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="TC_01_VerifyLoginWithInvalidCredential()[pri:0, instance:LoginScenario.LoginScenarioTestCases@47f37ef1]" name="TC_01_VerifyLoginWithInvalidCredential" duration-ms="2595" started-at="2022-09-03T04:22:57Z" finished-at="2022-09-03T04:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_VerifyLoginWithInvalidCredential -->
+        <test-method status="PASS" signature="TC_02_VerifyLoginWithValidCredential()[pri:0, instance:LoginScenario.LoginScenarioTestCases@47f37ef1]" name="TC_02_VerifyLoginWithValidCredential" duration-ms="0" started-at="2022-09-03T04:23:00Z" finished-at="2022-09-03T04:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_VerifyLoginWithValidCredential -->
+        <test-method status="PASS" signature="TC_03_VerifySignUp()[pri:0, instance:LoginScenario.LoginScenarioTestCases@47f37ef1]" name="TC_03_VerifySignUp" duration-ms="1" started-at="2022-09-03T04:23:00Z" finished-at="2022-09-03T04:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_VerifySignUp -->
+        <test-method status="PASS" signature="TC_04_VerifySign()[pri:0, instance:LoginScenario.LoginScenarioTestCases@47f37ef1]" name="TC_04_VerifySign" duration-ms="0" started-at="2022-09-03T04:23:00Z" finished-at="2022-09-03T04:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_VerifySign -->
+      </class> <!-- LoginScenario.LoginScenarioTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
